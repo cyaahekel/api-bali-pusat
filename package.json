@@ -1,6 +1,6 @@
 {
-  "name": "pusatwa-cuan-api",
-  "version": "1.0.0",
+  "name": "api-bali-pusan-cuan",
+  "version": "2.0.0",
   "main": "api/index.js",
   "dependencies": {
     "cors": "^2.8.5",
